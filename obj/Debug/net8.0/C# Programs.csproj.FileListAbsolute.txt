@@ -1,0 +1,14 @@
+/Users/jamesbaker/Desktop/C# Programs/bin/Debug/net8.0/C# Programs
+/Users/jamesbaker/Desktop/C# Programs/bin/Debug/net8.0/C# Programs.deps.json
+/Users/jamesbaker/Desktop/C# Programs/bin/Debug/net8.0/C# Programs.runtimeconfig.json
+/Users/jamesbaker/Desktop/C# Programs/bin/Debug/net8.0/C# Programs.dll
+/Users/jamesbaker/Desktop/C# Programs/bin/Debug/net8.0/C# Programs.pdb
+/Users/jamesbaker/Desktop/C# Programs/obj/Debug/net8.0/C# Programs.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jamesbaker/Desktop/C# Programs/obj/Debug/net8.0/C# Programs.AssemblyInfoInputs.cache
+/Users/jamesbaker/Desktop/C# Programs/obj/Debug/net8.0/C# Programs.AssemblyInfo.cs
+/Users/jamesbaker/Desktop/C# Programs/obj/Debug/net8.0/C# Programs.csproj.CoreCompileInputs.cache
+/Users/jamesbaker/Desktop/C# Programs/obj/Debug/net8.0/C# Programs.dll
+/Users/jamesbaker/Desktop/C# Programs/obj/Debug/net8.0/refint/C# Programs.dll
+/Users/jamesbaker/Desktop/C# Programs/obj/Debug/net8.0/C# Programs.pdb
+/Users/jamesbaker/Desktop/C# Programs/obj/Debug/net8.0/C# Programs.genruntimeconfig.cache
+/Users/jamesbaker/Desktop/C# Programs/obj/Debug/net8.0/ref/C# Programs.dll

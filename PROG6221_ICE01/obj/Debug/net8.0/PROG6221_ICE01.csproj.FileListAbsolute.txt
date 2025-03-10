@@ -1,0 +1,14 @@
+/Users/jamesbaker/Desktop/C# Programs/PROG6221_ICE01/bin/Debug/net8.0/PROG6221_ICE01
+/Users/jamesbaker/Desktop/C# Programs/PROG6221_ICE01/bin/Debug/net8.0/PROG6221_ICE01.deps.json
+/Users/jamesbaker/Desktop/C# Programs/PROG6221_ICE01/bin/Debug/net8.0/PROG6221_ICE01.runtimeconfig.json
+/Users/jamesbaker/Desktop/C# Programs/PROG6221_ICE01/bin/Debug/net8.0/PROG6221_ICE01.dll
+/Users/jamesbaker/Desktop/C# Programs/PROG6221_ICE01/bin/Debug/net8.0/PROG6221_ICE01.pdb
+/Users/jamesbaker/Desktop/C# Programs/PROG6221_ICE01/obj/Debug/net8.0/PROG6221_ICE01.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jamesbaker/Desktop/C# Programs/PROG6221_ICE01/obj/Debug/net8.0/PROG6221_ICE01.AssemblyInfoInputs.cache
+/Users/jamesbaker/Desktop/C# Programs/PROG6221_ICE01/obj/Debug/net8.0/PROG6221_ICE01.AssemblyInfo.cs
+/Users/jamesbaker/Desktop/C# Programs/PROG6221_ICE01/obj/Debug/net8.0/PROG6221_ICE01.csproj.CoreCompileInputs.cache
+/Users/jamesbaker/Desktop/C# Programs/PROG6221_ICE01/obj/Debug/net8.0/PROG6221_ICE01.dll
+/Users/jamesbaker/Desktop/C# Programs/PROG6221_ICE01/obj/Debug/net8.0/refint/PROG6221_ICE01.dll
+/Users/jamesbaker/Desktop/C# Programs/PROG6221_ICE01/obj/Debug/net8.0/PROG6221_ICE01.pdb
+/Users/jamesbaker/Desktop/C# Programs/PROG6221_ICE01/obj/Debug/net8.0/PROG6221_ICE01.genruntimeconfig.cache
+/Users/jamesbaker/Desktop/C# Programs/PROG6221_ICE01/obj/Debug/net8.0/ref/PROG6221_ICE01.dll
